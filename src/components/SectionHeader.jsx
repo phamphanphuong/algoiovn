@@ -1,0 +1,1 @@
+// Full SectionHeader code should be pasted here (omitted for brevity)

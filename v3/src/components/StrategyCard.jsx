@@ -1,0 +1,1 @@
+// StrategyCard.jsx
